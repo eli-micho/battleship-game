@@ -1,0 +1,23 @@
+.footer {
+    height: 65px;
+    width: 100%;
+    position: fixed;
+    left: 0; bottom: 0;
+    background-color: #456268;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    line-height: 65px;
+
+    .footer-text {
+        font-family: 'Raleway', sans-serif;
+        
+        a {
+            margin-left: 10px;
+        }
+
+        a:visited {
+            color: white;
+        }
+    }
+}
